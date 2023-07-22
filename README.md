@@ -6,3 +6,6 @@ The end users of a mental fitness tracker are the people who will be using the a
 The end users of a mental fitness tracker will have a variety of needs and goals. Some users may be looking for an app that can help them to track their mood and identify patterns in their mental health. Others may be looking for an app that can provide them with suggestions for activities and practices that can improve their mental health. 
 ![image](https://github.com/Ashishdode/Mental-fitness-tracker-/assets/105232134/0819bcbb-80df-47eb-83be-90d4861f4f6d)
 
+The solution to the problem of improving mental health is a mental fitness tracker.
+ A mental fitness tracker is a mobile app or website that helps users track their mental health over time. The app typically asks users to answer a series of questions about their mood, sleep, stress levels, and other factors that can affect mental health. 
+The app then uses this data to generate reports and insights that can help users identify patterns in their mental health and make changes to improve their overall well-being![image](https://github.com/Ashishdode/Mental-fitness-tracker-/assets/105232134/f5e5fbcf-dfde-46f3-9d76-df790e993a14)
